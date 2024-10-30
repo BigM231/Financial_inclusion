@@ -1,0 +1,4 @@
+﻿numpy>=1.26.0
+streamlit
+scikit-learn
+joblib
