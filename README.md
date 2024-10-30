@@ -3,9 +3,11 @@
 This is the ML model to predict bank or bank account 
 
 **Introduction**
+
 Financial inclusion is a critical driver for economic development, especially in developing regions. Access to financial services such as banking, savings, credit, and insurance enables individuals and businesses to participate fully in the economy, fostering personal growth and financial stability. However, despite its importance, many individuals across Africa remain unbanked, lacking access to essential financial services. This project focuses on examining financial inclusion in East Africa, using data from the Zindi platform's "Financial Inclusion in Africa" challenge. By leveraging this dataset, which includes demographic information and financial service usage data for around 33,600 individuals, we aim to predict the likelihood of individuals having or using a bank account. The insights drawn from this analysis can aid policymakers and financial institutions in creating strategies to expand financial inclusion effectively.
 
 **Problem Statement**
+
 In East Africa, a significant portion of the population lacks access to basic financial services, posing challenges to economic growth and individual financial security. Understanding the factors influencing financial service adoption, particularly bank account ownership, can be instrumental in addressing this gap. Using machine learning, this project seeks to identify demographic and behavioral factors that most strongly predict an individual's likelihood of holding a bank account. By doing so, we aim to support efforts in developing targeted solutions to expand financial inclusivity across East Africa.
 
 **Objectives**
