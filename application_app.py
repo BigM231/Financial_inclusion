@@ -19,7 +19,6 @@ st.title("Bank Account Prediction")
 try:
     with open("model.pkl", "rb") as model_file:
         model = pickle.load(model_file)
-        st.write(f"Loaded model type: {type(model)}")
 except Exception as e:
     st.error(f"Error loading model: {e}")
 
